@@ -3,9 +3,9 @@ name: Build App
 
 on:
   push:
-    branches: [ "prod-ec2", "dev" ]
+    branches: [ "prod" ]
   pull_request:
-    branches: [ "prod-ec2", "dev" ]
+    branches: [ "prod" ]
 
 jobs:
   build:
