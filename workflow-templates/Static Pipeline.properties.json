@@ -1,0 +1,14 @@
+{
+    "name": "Static Files Pipeline",
+    "description": "Pipeline para desplegar archivos estáticos",
+    "iconName": "example-icon",
+    "categories": [
+        "node",
+        "react",
+        "html",
+        "css"
+    ],
+    "filePatterns": [
+        "package.json$"
+    ]
+}
