@@ -1,0 +1,7 @@
+{
+  "name": "Docker pipeline",
+  "description": "GitHub Action para desplegar en EC2 contenedores de DockerHub",
+  "iconName": "oticon container",
+  "categories": ["node", "docker", "ec2", "aws"],
+  "filePatterns": ["^Dockerfile", "package.json$"]
+}
